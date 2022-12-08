@@ -3,8 +3,11 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="400" />
   <p>
 
-  Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+  I have been working with web development since 2016, the period during which I have worked in different environments,
+from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve
+problems. I create a wonderful digital environment by combining creative thinking, user resonance, and passion for development
+experience with technical knowledge. My repertoire includes programming languages and tools like ReactJS, VueJS, Mobx,
+Wordpress, AngularJS, MySQL, MongoDB and Apache server configuration, SASS, Bootstrap, Javascript, jQuery, etc.
 </p>
 <br/>
 <br/>
