@@ -6,7 +6,7 @@
   I have been working with web development since 2016, the period during which I have worked in different environments,
 from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve
 problems. I create a wonderful digital environment by combining creative thinking, user resonance, and passion for development
-experience with technical knowledge. My repertoire includes programming languages and tools like ReactJS, VueJS, Mobx,
+experience with technical knowledge. My repertory includes programming languages and tools like ReactJS, VueJS, Mobx,
 Wordpress, AngularJS, MySQL, MongoDB and Apache server configuration, SASS, Bootstrap, Javascript, jQuery, etc.
   Also Passionate and highly-skilled Blockchain professional with hands-on experience building smart contracts and
 decentralized applications. 
