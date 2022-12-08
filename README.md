@@ -8,6 +8,8 @@ from big consultancy companies to start-ups. I am a self-motivated and self-taug
 problems. I create a wonderful digital environment by combining creative thinking, user resonance, and passion for development
 experience with technical knowledge. My repertoire includes programming languages and tools like ReactJS, VueJS, Mobx,
 Wordpress, AngularJS, MySQL, MongoDB and Apache server configuration, SASS, Bootstrap, Javascript, jQuery, etc.
+  Also Passionate and highly-skilled Blockchain professional with hands-on experience building smart contracts and
+decentralized applications. 
 </p>
 <br/>
 <br/>
