@@ -55,7 +55,7 @@ decentralized applications.
 <div>
   <div align="left">      
   <code><img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"></code>
-  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="Vue" height="50" width="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
