@@ -15,7 +15,7 @@ decentralized applications.
 <br/>
 
   <div>
-  <h2 font-weight="bold">Programming Language</h2>
+  <h2 font-weight="bold">Programming Languages</h2>
    <div align="left">  
      <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
     <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
@@ -34,7 +34,7 @@ decentralized applications.
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++"           width="50" height="50"/></code> 
     </a>
   </div>
- <h2 font-weight="bold">Front End</h2>
+ <h2 font-weight="bold">Front End Skills</h2>
 <div>
   <div align="left">      
   <code><img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg"></code>
@@ -42,6 +42,7 @@ decentralized applications.
   <code><img alt="Angular" height="50" width="50" src="https://daisyui.com/logos/angular.svg"></code>
   <code><img alt="Next" height="50" width="50" src="https://daisyui.com/logos/nextjs.svg"></code>
   <code><img alt="Nuxt" height="50" width="50" src="https://daisyui.com/logos/nuxtjs.svg"></code>
+  <code><img alt="Preact" height="50" width="50" src="https://daisyui.com/logos/preact.svg"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
@@ -53,7 +54,7 @@ decentralized applications.
   </div>
 </div>
 
-<h2 font-weight="bold">Back End</h2>
+<h2 font-weight="bold">Back End Skills</h2>
 
   <div align="left">
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
@@ -69,7 +70,7 @@ decentralized applications.
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 
   </div>
-<h2 font-weight="bold">Other</h2>
+<h2 font-weight="bold">Other Essentials</h2>
 <div>
   <div align="left">
   <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
