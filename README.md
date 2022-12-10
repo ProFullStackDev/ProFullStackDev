@@ -48,7 +48,6 @@ decentralized applications.
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"></code>
   <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   </div>
