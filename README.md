@@ -18,8 +18,8 @@ decentralized applications.
   <h2 font-weight="bold">Programming Languages</h2>
    <div align="left">  
      <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>          
      <code><img  alt="C#" width="50" height="50" src="https://img.icons8.com/color/256/c-sharp-logo-2.png"/></code>
-    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>     
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
     <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>    
